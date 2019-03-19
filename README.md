@@ -1,1 +1,1 @@
-The Bot - API
+Instalação: npm install
